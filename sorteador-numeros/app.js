@@ -18,7 +18,7 @@ function sortear(){
         //verificando que não existe numeros iguais 
         // com função includes e possivel verificar pois funciona como valor boleano  
         while (sorteados.includes(numero)) {
-            numero = obterNumeroAletorio(de, ate);
+            numero = obterNumeroAletorio(de,ate);
         }
         sorteados.push(numero);
     }
