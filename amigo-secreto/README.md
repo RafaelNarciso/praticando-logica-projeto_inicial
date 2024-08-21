@@ -36,4 +36,4 @@ adicionar("Ana");
 adicionar("Bruno");
 adicionar("Carlos");
 adicionar("Daniela");
-sortear(); // Realiza o sorteio entre os amigos adicionados
+
